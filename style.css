@@ -26,5 +26,27 @@ li {
 }
 
 #foo {
-    color: #33FF4F
+    color: #33FF4F;
+    
 }
+
+
+
+#rah {
+    color: #33FFF0
+}
+
+a {
+  color: #DFFF00
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+
+
+
