@@ -1,43 +1,43 @@
 body {
-    background-color: #283747;
+    background-color: #FDFEFE;
 }
 
 h1 {
-    color: #DFFF00;
+    color: #212F3D;
     text-align: center;
 }
 
 hr {
-    height: 1px;
+    height: 2px;
     background-color: #C70039;
     border: none;
 }
 
 p {
-    color: #DFFF00;
+    color: #212F3D;
 }
 
 ul {
-    color: #C70039;
+    color: #212F3D;
 }
 
 li {
-    color: #C70039;
+    color: #212F3D;
 }
 
 #foo {
-    color: #33FF4F;
+    color: #212F3D;
     
 }
 
 
 
 #rah {
-    color: #33FFF0
+    color: #212F3D;
 }
 
 a {
-  color: #DFFF00
+  color: #212F3D;
 }
 
 .center {
